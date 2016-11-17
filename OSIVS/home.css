@@ -1,0 +1,14 @@
+#dep{
+	list-style:none;
+	
+}
+
+#dep a{
+	text-decoration:none;
+
+}
+
+#dep li{
+	
+	cursor:pointer;
+}

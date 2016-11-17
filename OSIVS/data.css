@@ -1,0 +1,75 @@
+.query-form{
+	padding-top: 1%;
+	
+}
+
+.query-form input[type=text]{
+	padding: 10px;
+  	border: solid 5px #c9c9c9;
+  	transition: border 0.3s;
+}
+
+.query-form input[type=text]:focus,.query-form input[type=text].focus{
+	outline: none;
+	border: solid 5px #969696;
+}
+
+#qry{
+	width:66%;
+	padding-left:1%;
+}
+
+#submit{
+	margin-left:10px;
+	padding: 14px;
+	color: #fff;
+  	background-color: #6496c8;
+  	text-shadow: -1px 1px #417cb8;
+  	border: none;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#submit:hover {
+	padding: 14px;
+	background-color: #346392;
+  	text-shadow: -1px 1px #27496d;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#submit:active {
+	padding: 14px;
+	background-color: #27496d;
+  	text-shadow: -1px 1px #193047;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#tblser {
+	min-width:70%;
+	width:auto;
+	height:auto;
+	text-align:center;
+	border-collapse: collapse;
+}
+
+#tblser a{
+
+	text-decoration:none;
+	color:blue;
+}
+#tblser th {
+  	background-color: #6496c8;
+	padding:1%;
+	height:20%;
+}
+
+#tblser tr{
+  	border-bottom:solid 3px #b4e6f8;
+	width:100%;
+}
+
+#tblser td{
+	padding:1.1%;
+}

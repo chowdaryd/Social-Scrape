@@ -1,0 +1,26 @@
+#tblpro {
+	min-width:80%;
+	width:auto;
+	height:auto;
+	text-align:center;
+	border-collapse: collapse;
+}
+
+#tblpro th {
+  	background-color: #6496c8;
+	padding:1%;
+	height:20%;
+	width:auto;
+}
+
+#tblpro tr{
+  	border-bottom:solid 3px #b4e6f8;
+	width:100%;
+}
+
+#tblpro td{
+  	padding:1.1%;
+	width:30%;
+	text-align:center;
+
+}

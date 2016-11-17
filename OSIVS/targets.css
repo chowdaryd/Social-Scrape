@@ -1,0 +1,64 @@
+#target-form{
+	padding-top: 1%;
+	
+}
+
+#target-form input[type=text]{
+	padding: 10px;
+  	border: solid 5px #c9c9c9;
+  	transition: border 0.3s;
+}
+
+#target-form input[type=text]:focus,#target-form input[type=text].focus{
+	outline: none;
+	border: solid 5px #969696;
+
+}
+
+#add-btn {
+	padding: 14px;
+	color: #fff;
+  	background-color: #6496c8;
+  	text-shadow: -1px 1px #417cb8;
+  	border: none;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#add-btn:hover {
+	padding: 14px;
+	background-color: #346392;
+  	text-shadow: -1px 1px #27496d;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#add-btn:active {
+	padding: 14px;
+	background-color: #27496d;
+  	text-shadow: -1px 1px #193047;
+	outline:none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+#tbltar {
+	width:70%;
+	height:auto;
+	text-align:center;
+	border-collapse: collapse;
+}
+
+#tbltar th {
+  	background-color: #6496c8;
+	padding:1%;
+	height:20%;
+}
+
+#tbltar tr{
+  	border-bottom:solid 3px #b4e6f8;
+
+}
+
+#tbltar td{
+  	padding:1.1%;
+}
