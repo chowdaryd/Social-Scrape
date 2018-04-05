@@ -17,4 +17,4 @@
 
 ---
 ### Contribution
- [Contact me](dnc295@nyu.edu) for full write-up
+ Contact me - dnc295(at)nyu(.)edu for full write-up
